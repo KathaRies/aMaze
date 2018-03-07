@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>aMaze</name>
+    <description>
+        How good is your orientation?   </description>
+    <author email="uxecu@student.kit.edu" href="http://phonegap.com">
+  Katharina Riesterer   </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <gap:plugin name="cordova-plugin-ble-central" source="npm" />
+    <preference name="loglevel" value="DEBUG" />
+</widget>

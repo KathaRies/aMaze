@@ -1,0 +1,24 @@
+#init_content{
+    padding-top: 70vh;
+    padding-bottom: 20vh;
+    background-image: url("maze.jpg");
+}
+
+#game_content{
+    background-color: #d3dee2;
+    height:80vh;
+    padding-top: 10vh;
+    padding-left: 20vw;
+    padding-right: 20vw;
+
+}
+#text{
+    text-shadow: none;
+    margin: 10vh 0vw;
+    text-align: center;
+}
+#game_header{
+    padding: 2vh;
+    text-align: center;
+    background-color: #3c829b;
+}
